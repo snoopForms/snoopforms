@@ -2,7 +2,7 @@
 var path = require("path");
 
 const nextConfig = {
-  webpack5: false,
+  //webpack5: false,
   reactStrictMode: false,
   serverRuntimeConfig: {
     // Will only be available on the server side
